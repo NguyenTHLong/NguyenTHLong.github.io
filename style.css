@@ -51,6 +51,7 @@ article{
         width: 75%;
         min-height: 1000px;
         float: left;
+        border-bottom: 2px solid gray;
         
 }
 aside{
@@ -157,10 +158,6 @@ footer .lienhe p a{
 }
 footer .lienhe{
     width: 50%;
-}
-.nav.nav-tabs li{
-    height: 70px;
-    text-align: center;
 }
 
 
